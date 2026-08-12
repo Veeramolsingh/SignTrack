@@ -1,3 +1,6 @@
+# SignTrack: Traffic Sign Detection using YOLOv8
+
+
 ## Project Overview
 
 **SignTrack** is a real‑time traffic sign detection system built on the latest YOLOv8 object‑detection framework. It processes images or video streams (e.g., dashcam, CCTV) to accurately identify and annotate traffic signs—enhancing road‑safety applications in autonomous vehicles and urban monitoring systems.&#x20;
